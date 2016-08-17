@@ -2,7 +2,7 @@
 
 Uses Matlab to plot force and torque data from a Force-Torque Sensor (FTS). The script assumes that data is contained in a table with six rows containing data over time for force in the X, Y, and Z directions; followed by torque in the X, Y, and Z directions.
 
-| Force (N) or Torque (N-m) | Time (centiseconds)  		    |
+| Force (N) or Torque (N-m) | Time (centiseconds) | | 		| 
 | --------------------------|:-------------:| -----:| -----:|
 | X-Force       			| time     		| ...   | ...   |
 | Y-Force       			| time     		| ...   | ...   |
